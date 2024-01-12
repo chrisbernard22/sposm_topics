@@ -1,0 +1,1 @@
+Indicate your preferences regarding the course topics in the .csv file. Use a scale from 0 (no interest) to 5 (high interest). For more details on each topic, refer to the "Topic_Summary.txt" file.
