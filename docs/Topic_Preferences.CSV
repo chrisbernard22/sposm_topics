@@ -1,21 +1,21 @@
-Topic;Ferdinand Zahn; Fabian Kalife
-1. Course Introduction and Schedule:;1; 1
-2. Open Science:;3; 3
-3. Fundamentals for Open Science:;5; 5
-4. Development Environment and Project Organization:;5; 5
-5. Git and GitHub:;3; 4
-6. Overview of Statistical Programming Languages:;2; 3
-7. Functional vs. Object-Oriented Programming:;5; 5
-8. Readable and Reusable Code:;4; 4
-9. Code Error Checking:;2; 2
-10. Recursion and Object-Oriented Programming:;3; 4
-11. Writing Code for Open Science Projects:;4; 5
-12. Summary and Outlook:;0; 1
-13. Debugging Tools:;1; 2
-14. Corner Cases:;3; 3
-15. Code Meets Data:;2; 3
-16. Relational Databases and Normalized Data:;1; 2
-17. Using External RDBMS for Storage:;3; 3
-18. Data Wrangling and Visualization Fundamentals:;2; 3
-19. Assignments and Wrap-up:;3; 2
-20. Tidy Data Scraping:;5; 4
+Topic;Ferdinand Zahn; Fabian Kalife; Christian Bernard
+1. Course Introduction and Schedule:;1; 1; 2
+2. Open Science:;3; 3; 3
+3. Fundamentals for Open Science:;5; 5; 5
+4. Development Environment and Project Organization:;5; 5; 4
+5. Git and GitHub:;3; 4; 5
+6. Overview of Statistical Programming Languages:;2; 3; 4
+7. Functional vs. Object-Oriented Programming:;5; 5; 3
+8. Readable and Reusable Code:;4; 4; 2
+9. Code Error Checking:;2; 2; 3
+10. Recursion and Object-Oriented Programming:;3; 4; 2
+11. Writing Code for Open Science Projects:;4; 5; 6
+12. Summary and Outlook:;0; 1; 2
+13. Debugging Tools:;1; 2; 3
+14. Corner Cases:;3; 3; 3
+15. Code Meets Data:;2; 3; 1
+16. Relational Databases and Normalized Data:;1; 2; 2
+17. Using External RDBMS for Storage:;3; 3; 3
+18. Data Wrangling and Visualization Fundamentals:;2; 3; 5
+19. Assignments and Wrap-up:;3; 2; 1
+20. Tidy Data Scraping:;5; 4; 0
